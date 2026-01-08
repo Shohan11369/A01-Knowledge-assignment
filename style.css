@@ -259,4 +259,17 @@ footer{
 .footer-link a{
     color:white;
     padding:10px;
+    margin-bottom: 10px;
+}
+
+.footer-bottom hr{
+    color:rgb(86, 85, 85);
+    margin-top: 16px;
+}
+
+.footer-bottom p{
+    color:white;
+    text-align: center;
+    margin-top: 14px;
+    padding:10px;
 }
