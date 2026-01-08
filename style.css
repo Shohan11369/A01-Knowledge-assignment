@@ -217,6 +217,7 @@
   padding: 20px;
   margin: 20px auto;
   border-radius: 30px;
+  
 }
 
 .ready-think-info h2 {
@@ -239,4 +240,23 @@
 
 .ready-think-info .ready-think-p {
   font-size: 12px;
+}
+
+
+/* footer */
+
+footer{
+    background-color: #000000;
+    padding:30px;
+}
+
+.footer-icon-link{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.footer-link a{
+    color:white;
+    padding:10px;
 }
